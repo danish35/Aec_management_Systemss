@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Registratin_Activity">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/txtAssign"
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:src="@drawable/assih"
+            android:padding="20dp"/>
+
+        <EditText
+            android:id="@+id/editPdf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter PDF File Name"
+            android:ems="10"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:inputType="text"
+            android:textSize="22sp"
+            />
+        <Button
+            android:id="@+id/btnUploads"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="UPLOAD"
+            android:textSize="22sp"
+            android:background="@drawable/round_button"
+            android:layout_marginTop="40dp"
+            android:textColor="#ffffff"/>
+       
+
+
+    </LinearLayout>
+
+</RelativeLayout>

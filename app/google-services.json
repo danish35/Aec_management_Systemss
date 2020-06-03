@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "922213729748",
+    "firebase_url": "https://aec-management-system.firebaseio.com",
+    "project_id": "aec-management-system",
+    "storage_bucket": "aec-management-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922213729748:android:b4230b923f3c3a8edd8241",
+        "android_client_info": {
+          "package_name": "com.example.aecmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922213729748-mumt945q1cn4jv4fg0fmove3mji4ntu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aecmanagementsystem",
+            "certificate_hash": "dd8752ff0a55161d4417ce9779049eb8e4a15ae3"
+          }
+        },
+        {
+          "client_id": "922213729748-8dmejhn6m70u11j76eveflpjac62s2il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu-UmKRU6GIs9GddsIuqvkB3tprihI80Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922213729748-8dmejhn6m70u11j76eveflpjac62s2il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
